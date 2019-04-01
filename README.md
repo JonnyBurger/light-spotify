@@ -53,10 +53,10 @@ chrome://flags
 
 
 * Reload all Spotify pages.
-
+* Enjoy a faster Spotify!
 <br/>
 
-> This repository contains the code for this extension. Issues and pull requests are welcome.
+This repository contains the code for this extension. Issues and pull requests are welcome.
 
 ## Credits
 
