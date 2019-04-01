@@ -8,10 +8,11 @@
 
 
 * More minimalistic, snappier version of Spotify
-* Put in your tray and use your ⏪ ⏯ ⏩ as your normal
+* Put in your tray and use your ⏪ ⏯ ⏩ buttons as your normal
 
 
-## Install Spotify Web Player as Desktop app
+![Install Spotify Web Player as Desktop App](assets/step1.png)
+
 
 * Go to [https://open.spotify.com](https://open.spotify.com) to open the Spotify web player.
 * Click the Chrome Menu, Select <kbd>More Tools</kbd> and then <kbd>Create Shortcut...</kbd>.
@@ -22,19 +23,19 @@
 
 ![Check 'Open as window'](assets/open-as-window.png)
 
-## Add it to your tray
+![Add it to your tray](assets/step2.png)
 
 Drag the Spotify app to your tray for fast access.
 
 ![Check 'Open as window'](assets/spotify-web.gif)
 
-## Enable media shortcut keys
+![Enable media shortcur keys](assets/step3.png)
 
 * Make sure you are running at least version 73 of Spotify
 * Go to [chrome://flags](chrome://flags)
 * Make sure to enable the following options: __#enable-media-session-service__ and __#hardware-media-key-handling__
 
-![Check 'Open as window'](assets/flags.png)
+![Screenshot of chrome://flags](assets/flags.png)
 
 * Install the extension [__Media Keys for Spotify__](https://chrome.google.com/webstore/detail/media-keys-for-spotify-%E2%8F%AF/jndpdofaejbhcfpadmgcciohlnfokfil):
 
