@@ -28,7 +28,9 @@
 
 Drag the Spotify app to your tray for fast access.
 
-![Check 'Open as window'](assets/spotify-web.gif)
+<p align="center">
+<img src="assets/spotify-web.gif" alt="Drag the Spotify application from the ChromeApps folder into the tray." width="450">
+</p>
 
 <img src="assets/step3.png" height="50" alt="Enable media shortcut keys">
 
