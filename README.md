@@ -44,7 +44,8 @@ chrome://flags
 * Install the extension [__Media Keys for Spotify__](https://chrome.google.com/webstore/detail/media-keys-for-spotify-%E2%8F%AF/jndpdofaejbhcfpadmgcciohlnfokfil):
 
 <a href="https://chrome.google.com/webstore/detail/media-keys-for-spotify-%E2%8F%AF/jndpdofaejbhcfpadmgcciohlnfokfil">
-  <img src="assets/button.png" height="40"/>
+  <img src="assets/button.png" height="80"/>
+  <div style="height: 20" />
 </a>
 
 > This repository contains the code for this extension.
