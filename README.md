@@ -64,7 +64,7 @@ chrome://flags
 <small>Tutorial and Chrome extension by</small><br/>
 <p align="center">
 <a href="https://twitter.com/JNYBGR">
-<img src="assets/credit.png" height="43"/>
+<img src="assets/credit.png" height="21"/>
 </a>
 </p>
 </p>
