@@ -1,7 +1,7 @@
-# Light Spotify
 
 <div style="width: 600px" align="center">
 
-![assets/preview.png](assets/preview.png)
+![Light Spotify Teaser](assets/light-spotify.png)
 
 </div>
+
