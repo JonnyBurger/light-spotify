@@ -43,6 +43,10 @@ chrome://flags
 
 * Install the extension [__Media Keys for Spotify__](https://chrome.google.com/webstore/detail/media-keys-for-spotify-%E2%8F%AF/jndpdofaejbhcfpadmgcciohlnfokfil):
 
+<a href="https://chrome.google.com/webstore/detail/media-keys-for-spotify-%E2%8F%AF/jndpdofaejbhcfpadmgcciohlnfokfil">
+  <img src="assets/button.png" height="40"/>
+</a>
+
 > This repository contains the code for this extension.
 
 * Reload all Spotify pages.

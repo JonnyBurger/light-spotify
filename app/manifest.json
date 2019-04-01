@@ -1,6 +1,6 @@
 {
   "name": "Media Keys for Spotify ⏯",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 2,
   "description": "Allows you to use the native Spotify media keys on Spotify",
   "icons": {
