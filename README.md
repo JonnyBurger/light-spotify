@@ -61,10 +61,10 @@ chrome://flags
 ## Credits
 
 <p align="center">
-<small>Tutorial and Chrome extension by</small><br/>
+<sup>Tutorial and Chrome extension by</sup><br/>
 <p align="center">
 <a href="https://twitter.com/JNYBGR">
-<img src="assets/credit.png" height="21"/>
+<img src="assets/credit.png" height="28"/>
 </a>
 </p>
 </p>
