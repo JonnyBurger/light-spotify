@@ -10,8 +10,7 @@
 * More minimalistic, snappier version of Spotify
 * Put in your tray and use your ⏪ ⏯ ⏩ buttons as your normal
 
-
-![Install Spotify Web Player as Desktop App](assets/step1.png)
+<img src="assets/step1.png" height="50" alt="Install Spotify Web Player as Desktop App"/>
 
 
 * Go to [https://open.spotify.com](https://open.spotify.com) to open the Spotify web player.
@@ -23,13 +22,13 @@
 
 ![Check 'Open as window'](assets/open-as-window.png)
 
-![Add it to your tray](assets/step2.png)
+<img src="assets/step2.png" height="50" alt="Add it to your tray">
 
 Drag the Spotify app to your tray for fast access.
 
 ![Check 'Open as window'](assets/spotify-web.gif)
 
-![Enable media shortcur keys](assets/step3.png)
+<img src="assets/step3.png" height="50" alt="Enable media shortcut keys">
 
 * Make sure you are running at least version 73 of Spotify
 * Go to [chrome://flags](chrome://flags)
