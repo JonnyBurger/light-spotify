@@ -4,11 +4,13 @@
 ![Light Spotify Teaser](assets/light-spotify.png)
 
 </div>
-<p align="center"><em>Spotify PWA + Desktop shortcut + Media keys support</em></p>
 
 
 * More minimalistic, snappier version of Spotify
 * Put in your tray and use your ⏪ ⏯ ⏩ buttons as your normal
+
+
+<hr/>
 
 <img src="assets/step1.png" height="50" alt="Install Spotify Web Player as Desktop App"/>
 
@@ -31,7 +33,7 @@ Drag the Spotify app to your tray for fast access.
 <img src="assets/step3.png" height="50" alt="Enable media shortcut keys">
 
 * Make sure you are running at least version 73 of Spotify
-* Go to [chrome://flags](chrome://flags)
+* Type in your address bar: <a href="chrome://flags"></a>
 * Make sure to enable the following options: __#enable-media-session-service__ and __#hardware-media-key-handling__
 
 ![Screenshot of chrome://flags](assets/flags.png)
