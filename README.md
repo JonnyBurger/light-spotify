@@ -46,16 +46,23 @@ chrome://flags
 <p align="center">
 <a href="https://chrome.google.com/webstore/detail/media-keys-for-spotify-%E2%8F%AF/jndpdofaejbhcfpadmgcciohlnfokfil" target="_blank">
 <br/>
-  <img src="assets/button.png" height="50"/>
+  <img src="assets/button.png" height="80"/>
   <br/>
 </a>
 </p>
 
-> This repository contains the code for this extension.
 
 * Reload all Spotify pages.
 
+<br/>
+
+> This repository contains the code for this extension. Issues and pull requests are welcome.
 
 ## Credits
 
-* [Jonny Burger](https://twitter.com/JNYBGR)
+<p align="center">
+Tutorial and Chrome extension by<br/>
+<a href="https://twitter.com/JNYBGR">
+<img src="assets/credit.png" height="43"/>
+</a>
+</p>
