@@ -61,8 +61,10 @@ chrome://flags
 ## Credits
 
 <p align="center">
-Tutorial and Chrome extension by<br/>
+<small>Tutorial and Chrome extension by</small><br/>
+<p align="center">
 <a href="https://twitter.com/JNYBGR">
 <img src="assets/credit.png" height="43"/>
 </a>
+</p>
 </p>
