@@ -33,7 +33,7 @@ Drag the Spotify app to your tray for fast access.
 <img src="assets/step3.png" height="50" alt="Enable media shortcut keys">
 
 * Make sure you are running at least version 73 of Spotify
-* Type in your address bar: <a href="chrome://flags"></a>
+* Type in your address bar: <a href="chrome://flags">chrome://flags</a>
 * Make sure to enable the following options: __#enable-media-session-service__ and __#hardware-media-key-handling__
 
 ![Screenshot of chrome://flags](assets/flags.png)
