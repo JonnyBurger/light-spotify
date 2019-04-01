@@ -4,7 +4,7 @@
 ![Light Spotify Teaser](assets/light-spotify.png)
 
 </div>
-<p align="center">Spotify PWA + Desktop shortcut + Media keys support</p>
+<p align="center"><em>Spotify PWA + Desktop shortcut + Media keys support</em></p>
 
 
 * More minimalistic, snappier version of Spotify
@@ -18,7 +18,7 @@
 
 ![Create shortcut](assets/create-shortcut.png)
 
-* Check the <kbd>Open as window</kbd> box and click <kbd>Create</kbd>.
+* Check the <input type="checkbox" checked> `Open as window` box and click <kbd>Create</kbd>.
 
 ![Check 'Open as window'](assets/open-as-window.png)
 
@@ -30,4 +30,17 @@ Drag the Spotify app to your tray for fast access.
 
 ## Enable media shortcut keys
 
+* Make sure you are running at least version 73 of Spotify
+* Go to [chrome://flags](chrome://flags)
+* Make sure to enable the following options: __#enable-media-session-service__ and __#hardware-media-key-handling__
+
 ![Check 'Open as window'](assets/flags.png)
+
+* Install the extension [__Media Keys for Spotify__](https://chrome.google.com/webstore/detail/media-keys-for-spotify-%E2%8F%AF/jndpdofaejbhcfpadmgcciohlnfokfil):
+
+> This repository contains the code for this extension.
+
+
+## Credits
+
+* [Jonny Burger](https://twitter.com/JNYBGR)
